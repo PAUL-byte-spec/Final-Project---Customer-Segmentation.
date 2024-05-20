@@ -5,6 +5,8 @@
 # Overview
 This project focuses on customer segmentation for LG Corporation, leveraging data analytics to enhance decision-making and drive growth. The goal is to analyze customer data, identify distinct segments, and tailor marketing strategies to maximize engagement and sales. This README provides detailed instructions for executing the code in a Jupyter Notebook, covering data loading, model training, evaluation, and visualization.
 
+Clone the Repository: https://github.com/PAUL-byte-spec/Final-Project---Customer-Segmentation..git
+
 # Step-by-Step Instructions for Executing Code in Jupyter Notebook
 
 # Import Necessary Libraries
